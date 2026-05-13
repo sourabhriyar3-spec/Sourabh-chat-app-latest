@@ -1,0 +1,7 @@
+{
+  "name": "Apex Pro",
+  "short_name": "Apex",
+  "start_url": ".",
+  "display": "standalone",
+  "gcm_sender_id": "1031072759094"
+}
